@@ -1,0 +1,401 @@
+Temperatura do ar ambiente,Rotação do motor - RPM,Carga calculada do motor,Ajuste de combustível de longo prazo - Banco 1,Temperatura do ar admitido - ACT,Temperatura do líquido de arrefecimento do motor - CTS,Ajuste de combustível de curto prazo - Banco 1,"Sonda lambda - Banco 1, sensor 2",Pressão barométrica,Tensão do módulo,Posição relativa da borboleta - TPS,Posição absoluta da borboleta - TPS,Posição absoluta da borboleta - Sensor B,"Sonda lambda - Banco 1, sensor 1","Ajuste de combustível de curto prazo - Banco 1, sensor 1",Pressão no coletor de admissão - MAP,Estado do sistema de combustível,Carga absoluta do motor,Nº de falhas na memória,Altitude
+,868 rpm,38 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.05 V,3 %,13 %,13 %,0.46 V,0 %,470 mbar,Malha aberta null,28 %,6 null,765 m
+17 °C,849 rpm,36 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.49 V,0 %,450 mbar,Malha aberta null,27 %,6 null,765 m
+17 °C,801 rpm,35 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.54 V,0 %,430 mbar,Malha aberta null,26 %,6 null,765 m
+17 °C,812 rpm,34 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.61 V,0 %,440 mbar,Malha aberta null,26 %,6 null,765 m
+17 °C,822 rpm,33 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.67 V,0 %,420 mbar,Malha aberta - condição de codução null,25 %,6 null,765 m
+17 °C,814 rpm,32 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.24 V,3 %,13 %,13 %,0.67 V,0 %,420 mbar,Malha aberta - condição de codução null,24 %,6 null,765 m
+17 °C,798 rpm,31 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.67 V,0 %,410 mbar,Malha aberta - condição de codução null,24 %,6 null,765 m
+17 °C,804 rpm,31 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.67 V,0 %,390 mbar,Malha aberta - condição de codução null,23 %,6 null,765 m
+17 °C,813 rpm,29 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.34 V,2 %,13 %,13 %,0.67 V,0 %,390 mbar,Malha aberta - condição de codução null,23 %,6 null,765 m
+17 °C,819 rpm,30 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,13.87 V,2 %,13 %,13 %,0.67 V,0 %,390 mbar,Malha aberta - condição de codução null,23 %,6 null,765 m
+17 °C,795 rpm,29 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.67 V,0 %,370 mbar,Malha aberta - condição de codução null,22 %,6 null,765 m
+17 °C,805 rpm,28 %,0 %,39 °C,38 °C,-1 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.67 V,-2 %,370 mbar,Malha fechada null,22 %,6 null,765 m
+17 °C,800 rpm,28 %,0 %,39 °C,38 °C,-2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.68 V,-2 %,370 mbar,Malha fechada null,22 %,6 null,765 m
+17 °C,792 rpm,27 %,0 %,39 °C,38 °C,-3 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.68 V,-4 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,805 rpm,27 %,0 %,39 °C,38 °C,-5 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.68 V,-5 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,799 rpm,27 %,0 %,39 °C,38 °C,-6 %,0.45 V,920 mbar,14.24 V,2 %,13 %,13 %,0.67 V,-6 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,803 rpm,27 %,0 %,39 °C,38 °C,-7 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.60 V,-8 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,788 rpm,27 %,0 %,39 °C,38 °C,-4 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.33 V,-3 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,797 rpm,27 %,0 %,39 °C,38 °C,-3 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.63 V,-3 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,804 rpm,27 %,0 %,39 °C,38 °C,-3 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.61 V,-3 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,794 rpm,27 %,0 %,39 °C,38 °C,-5 %,0.45 V,920 mbar,14.24 V,2 %,13 %,13 %,0.65 V,-5 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,807 rpm,27 %,0 %,39 °C,38 °C,-2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.32 V,-2 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,800 rpm,27 %,0 %,39 °C,38 °C,-1 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.65 V,-1 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,803 rpm,27 %,0 %,39 °C,38 °C,-1 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.65 V,-1 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,807 rpm,27 %,0 %,39 °C,38 °C,-2 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.68 V,-3 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,801 rpm,27 %,0 %,39 °C,38 °C,-4 %,0.45 V,920 mbar,14.24 V,2 %,13 %,13 %,0.68 V,-5 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,799 rpm,27 %,0 %,39 °C,38 °C,-5 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.47 V,-2 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,804 rpm,27 %,0 %,39 °C,38 °C,-1 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.33 V,-1 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,798 rpm,27 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.67 V,0 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,792 rpm,27 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.70 V,0 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,802 rpm,27 %,0 %,39 °C,38 °C,-2 %,0.45 V,920 mbar,13.96 V,2 %,13 %,13 %,0.71 V,-3 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,796 rpm,26 %,0 %,39 °C,38 °C,-4 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.69 V,-5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,803 rpm,27 %,0 %,39 °C,38 °C,-5 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.33 V,-2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,806 rpm,27 %,0 %,39 °C,38 °C,-1 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.26 V,0 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,799 rpm,27 %,0 %,39 °C,38 °C,1 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.29 V,2 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,796 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.73 V,2 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,798 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.74 V,2 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,794 rpm,27 %,0 %,39 °C,38 °C,-1 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.75 V,-2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,806 rpm,27 %,0 %,39 °C,38 °C,-2 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.72 V,-2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,803 rpm,27 %,0 %,39 °C,38 °C,-3 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.42 V,0 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,799 rpm,27 %,0 %,39 °C,38 °C,1 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.24 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,805 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.71 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,800 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.24 V,2 %,13 %,12 %,0.73 V,2 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,797 rpm,27 %,0 %,39 °C,38 °C,0 %,0.45 V,920 mbar,14.24 V,2 %,13 %,13 %,0.72 V,-1 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,798 rpm,27 %,0 %,39 °C,38 °C,-2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.46 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,805 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.24 V,2 %,13 %,13 %,0.67 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,804 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.15 V,2 %,13 %,12 %,0.74 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,801 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.74 V,0 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,794 rpm,27 %,0 %,39 °C,38 °C,-1 %,0.45 V,920 mbar,14.24 V,2 %,13 %,13 %,0.60 V,-1 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,793 rpm,27 %,0 %,39 °C,38 °C,-2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.41 V,2 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,791 rpm,27 %,0 %,39 °C,38 °C,2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.21 V,3 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,801 rpm,27 %,0 %,39 °C,39 °C,3 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.73 V,4 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,803 rpm,27 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.75 V,4 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,802 rpm,27 %,0 %,39 °C,39 °C,2 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.76 V,1 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,801 rpm,27 %,0 %,39 °C,39 °C,0 %,0.45 V,920 mbar,14.15 V,2 %,13 %,12 %,0.72 V,0 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,801 rpm,27 %,0 %,39 °C,39 °C,-1 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.27 V,3 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,813 rpm,27 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.25 V,4 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,808 rpm,27 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.15 V,2 %,13 %,13 %,0.74 V,4 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,796 rpm,27 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.77 V,2 %,360 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,805 rpm,27 %,0 %,39 °C,39 °C,2 %,0.45 V,920 mbar,14.24 V,2 %,13 %,13 %,0.75 V,1 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,803 rpm,27 %,0 %,39 °C,39 °C,1 %,0.45 V,920 mbar,14.05 V,2 %,13 %,13 %,0.62 V,0 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,805 rpm,27 %,0 %,39 °C,39 °C,3 %,0.45 V,920 mbar,14.05 V,2 %,13 %,12 %,0.69 V,3 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,799 rpm,27 %,0 %,39 °C,39 °C,3 %,0.45 V,920 mbar,13.96 V,2 %,13 %,12 %,0.73 V,3 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,794 rpm,27 %,0 %,39 °C,39 °C,3 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.72 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,798 rpm,27 %,0 %,39 °C,39 °C,1 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.69 V,0 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,789 rpm,27 %,0 %,39 °C,39 °C,-1 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.31 V,3 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,795 rpm,27 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.19 V,4 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,798 rpm,27 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.76 V,5 %,350 mbar,Malha fechada null,21 %,6 null,765 m
+17 °C,785 rpm,27 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.77 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,795 rpm,26 %,0 %,39 °C,39 °C,2 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.77 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,785 rpm,27 %,0 %,39 °C,39 °C,1 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.74 V,0 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,785 rpm,27 %,0 %,39 °C,39 °C,0 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.21 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,797 rpm,27 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.71 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,789 rpm,27 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.76 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,790 rpm,27 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.77 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,791 rpm,27 %,0 %,39 °C,39 °C,2 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.75 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,790 rpm,26 %,0 %,39 °C,39 °C,1 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.75 V,0 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,792 rpm,26 %,0 %,39 °C,39 °C,-1 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.56 V,-1 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,788 rpm,26 %,0 %,39 °C,39 °C,3 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.19 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,795 rpm,26 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.75 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,787 rpm,26 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.77 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,788 rpm,26 %,0 %,39 °C,39 °C,2 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.77 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,781 rpm,26 %,0 %,39 °C,39 °C,1 %,0.45 V,920 mbar,14.24 V,2 %,12 %,12 %,0.70 V,0 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,779 rpm,26 %,0 %,39 °C,39 °C,0 %,0.45 V,920 mbar,14.24 V,2 %,12 %,12 %,0.19 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,793 rpm,26 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.73 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,791 rpm,26 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.78 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,782 rpm,26 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.78 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,794 rpm,26 %,0 %,39 °C,39 °C,2 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.77 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,789 rpm,26 %,0 %,39 °C,39 °C,1 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.66 V,1 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,793 rpm,26 %,0 %,39 °C,39 °C,4 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.19 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,787 rpm,26 %,0 %,39 °C,39 °C,5 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.74 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,773 rpm,26 %,0 %,39 °C,40 °C,5 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.78 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,776 rpm,26 %,0 %,39 °C,40 °C,5 %,0.45 V,920 mbar,13.96 V,2 %,12 %,12 %,0.78 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,769 rpm,26 %,0 %,39 °C,40 °C,2 %,0.45 V,920 mbar,14.24 V,2 %,12 %,12 %,0.62 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,764 rpm,27 %,0 %,39 °C,40 °C,5 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.17 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,771 rpm,27 %,0 %,39 °C,40 °C,6 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.76 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,767 rpm,27 %,0 %,39 °C,40 °C,6 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.79 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,777 rpm,27 %,0 %,39 °C,40 °C,5 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.79 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,764 rpm,26 %,0 %,39 °C,40 °C,3 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.76 V,3 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,775 rpm,26 %,0 %,39 °C,40 °C,2 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.63 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,766 rpm,26 %,0 %,39 °C,40 °C,5 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.18 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,773 rpm,27 %,0 %,39 °C,40 °C,6 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.75 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,765 rpm,27 %,0 %,39 °C,41 °C,6 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.78 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,774 rpm,27 %,0 %,39 °C,41 °C,4 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.78 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,771 rpm,26 %,0 %,39 °C,41 °C,3 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.75 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,773 rpm,26 %,0 %,39 °C,41 °C,2 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.54 V,2 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,768 rpm,26 %,0 %,39 °C,41 °C,5 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.17 V,6 %,340 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,771 rpm,26 %,0 %,39 °C,41 °C,6 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.77 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,772 rpm,26 %,0 %,39 °C,41 °C,6 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.79 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,773 rpm,26 %,0 %,39 °C,41 °C,4 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.80 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,770 rpm,26 %,0 %,39 °C,41 °C,3 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.76 V,2 %,340 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,767 rpm,26 %,0 %,39 °C,41 °C,2 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.38 V,5 %,340 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,771 rpm,26 %,0 %,39 °C,41 °C,6 %,0.45 V,920 mbar,14.15 V,2 %,12 %,12 %,0.24 V,6 %,340 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,770 rpm,26 %,0 %,39 °C,41 °C,6 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.78 V,6 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,772 rpm,26 %,0 %,39 °C,41 °C,6 %,0.45 V,920 mbar,14.05 V,2 %,12 %,12 %,0.79 V,5 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+17 °C,770 rpm,26 %,0 %,39 °C,42 °C,4 %,0.45 V,920 mbar,14.24 V,2 %,12 %,12 %,0.78 V,4 %,350 mbar,Malha fechada null,20 %,6 null,765 m
+,768 rpm,25 %,0 %,,42 °C,,,,,,,,,,,,,,765 m
+,776 rpm,26 %,0 %,,42 °C,6 %,0.45 V,,,,,12 %,0.74 V,6 %,,Malha fechada null,,6 null,765 m
+,779 rpm,26 %,0 %,,42 °C,6 %,0.45 V,,,,,12 %,0.78 V,6 %,,Malha fechada null,,6 null,765 m
+,774 rpm,26 %,0 %,,42 °C,6 %,0.45 V,,,,,12 %,0.79 V,6 %,,Malha fechada null,,6 null,765 m
+,775 rpm,26 %,0 %,,42 °C,6 %,0.45 V,,,,,12 %,0.80 V,5 %,,Malha fechada null,,6 null,765 m
+,768 rpm,26 %,0 %,,42 °C,4 %,0.45 V,,,,,12 %,0.80 V,4 %,,Malha fechada null,,6 null,765 m
+,774 rpm,27 %,0 %,,42 °C,3 %,0.45 V,,,,,12 %,0.74 V,3 %,,Malha fechada null,,6 null,765 m
+,768 rpm,27 %,0 %,,42 °C,3 %,0.45 V,,,,,12 %,0.23 V,7 %,,Malha fechada null,,6 null,765 m
+,771 rpm,28 %,0 %,,42 °C,7 %,0.45 V,,,,,12 %,0.17 V,8 %,,Malha fechada null,,6 null,765 m
+,764 rpm,29 %,0 %,,42 °C,8 %,0.45 V,,,,,12 %,0.76 V,8 %,,Malha fechada null,,6 null,765 m
+,781 rpm,28 %,0 %,,42 °C,8 %,0.45 V,,,,,12 %,0.78 V,8 %,,Malha fechada null,,6 null,765 m
+,775 rpm,27 %,0 %,,42 °C,8 %,0.45 V,,,,,12 %,0.81 V,8 %,,Malha fechada null,,6 null,765 m
+,774 rpm,26 %,0 %,,42 °C,8 %,0.45 V,,,,,13 %,0.82 V,5 %,,Malha fechada null,,6 null,765 m
+,924 rpm,57 %,0 %,,42 °C,5 %,0.45 V,,,,,39 %,0.87 V,3 %,,Malha fechada null,,6 null,765 m
+,2703 rpm,63 %,0 %,,42 °C,1 %,0.45 V,,,,,14 %,0.77 V,-1 %,,Malha fechada null,,6 null,765 m
+,2394 rpm,22 %,0 %,,42 °C,0 %,0.45 V,,,,,14 %,0.83 V,0 %,,Malha aberta - condição de codução null,,6 null,765 m
+,1849 rpm,19 %,0 %,,42 °C,0 %,0.45 V,,,,,13 %,0.77 V,0 %,,Malha aberta - condição de codução null,,6 null,765 m
+,1642 rpm,16 %,0 %,,42 °C,0 %,0.45 V,,,,,25 %,0.82 V,-1 %,,Malha fechada null,,6 null,765 m
+,1895 rpm,88 %,0 %,,42 °C,-2 %,0.45 V,,,,,15 %,0.83 V,-5 %,,Malha aberta - condição de codução null,,6 null,765 m
+,3157 rpm,24 %,0 %,,42 °C,-7 %,0.45 V,,,,,15 %,0.80 V,-9 %,,Malha aberta - condição de codução null,,6 null,765 m
+,2514 rpm,17 %,0 %,,42 °C,0 %,0.45 V,,,,,15 %,0.22 V,0 %,,Malha aberta - condição de codução null,,6 null,765 m
+,1997 rpm,18 %,0 %,,42 °C,0 %,0.45 V,,,,,13 %,0.17 V,0 %,,Malha aberta - condição de codução null,,6 null,765 m
+,1716 rpm,16 %,0 %,,42 °C,0 %,0.45 V,,,,,13 %,0.74 V,-1 %,,Malha fechada null,,6 null,765 m
+,1530 rpm,17 %,0 %,,42 °C,-2 %,0.45 V,,,,,13 %,0.74 V,-2 %,,Malha fechada null,,6 null,765 m
+,1366 rpm,20 %,0 %,,42 °C,2 %,0.45 V,,,,,13 %,0.19 V,2 %,,Malha fechada null,,6 null,765 m
+,1249 rpm,22 %,0 %,,42 °C,3 %,0.45 V,,,,,13 %,0.75 V,3 %,,Malha fechada null,,6 null,765 m
+,1155 rpm,23 %,0 %,,42 °C,3 %,0.45 V,,,,,13 %,0.78 V,3 %,,Malha fechada null,,6 null,765 m
+,1077 rpm,24 %,0 %,,42 °C,3 %,0.45 V,,,,,13 %,0.79 V,3 %,,Malha fechada null,,6 null,765 m
+,1026 rpm,25 %,0 %,,42 °C,3 %,0.45 V,,,,,13 %,0.79 V,3 %,,Malha fechada null,,6 null,765 m
+,968 rpm,25 %,0 %,,42 °C,1 %,0.45 V,,,,,13 %,0.80 V,1 %,,Malha fechada null,,6 null,765 m
+,927 rpm,26 %,0 %,,42 °C,0 %,0.45 V,,,,,13 %,0.79 V,0 %,,Malha fechada null,,6 null,765 m
+,882 rpm,27 %,0 %,,42 °C,-1 %,0.45 V,,,,,13 %,0.77 V,-1 %,,Malha fechada null,,6 null,765 m
+,833 rpm,27 %,0 %,,43 °C,-2 %,0.45 V,,,,,13 %,0.67 V,-2 %,,Malha fechada null,,6 null,765 m
+,793 rpm,27 %,0 %,,42 °C,-2 %,0.45 V,,,,,12 %,0.24 V,2 %,,Malha fechada null,,6 null,765 m
+,797 rpm,27 %,0 %,,43 °C,2 %,0.45 V,,,,,12 %,0.17 V,2 %,,Malha fechada null,,6 null,765 m
+,792 rpm,27 %,0 %,,43 °C,3 %,0.45 V,,,,,12 %,0.16 V,3 %,,Malha fechada null,,6 null,765 m
+,791 rpm,28 %,0 %,,43 °C,3 %,0.45 V,,,,,12 %,0.16 V,4 %,,Malha fechada null,,6 null,765 m
+,783 rpm,27 %,0 %,,43 °C,4 %,0.45 V,,,,,12 %,0.17 V,5 %,,Malha fechada null,,6 null,765 m
+,780 rpm,27 %,0 %,,43 °C,5 %,0.45 V,,,,,12 %,0.71 V,5 %,,Malha fechada null,,6 null,765 m
+,779 rpm,27 %,0 %,,43 °C,5 %,0.45 V,,,,,12 %,0.77 V,5 %,,Malha fechada null,,6 null,765 m
+,777 rpm,27 %,0 %,,43 °C,5 %,0.45 V,,,,,12 %,0.79 V,5 %,,Malha fechada null,,6 null,765 m
+,773 rpm,26 %,0 %,,43 °C,5 %,0.45 V,,,,,12 %,0.79 V,5 %,,Malha fechada null,,6 null,765 m
+,773 rpm,26 %,0 %,,43 °C,2 %,0.45 V,,,,,12 %,0.78 V,2 %,,Malha fechada null,,6 null,765 m
+,778 rpm,26 %,0 %,,43 °C,2 %,0.45 V,,,,,12 %,0.76 V,2 %,,Malha fechada null,,6 null,765 m
+,771 rpm,26 %,0 %,,43 °C,2 %,0.45 V,,,,,12 %,0.61 V,2 %,,Malha fechada null,,6 null,765 m
+,770 rpm,26 %,0 %,,43 °C,5 %,0.45 V,,,,,12 %,0.19 V,5 %,,Malha fechada null,,6 null,765 m
+,772 rpm,26 %,0 %,,43 °C,5 %,0.45 V,,,,,12 %,0.16 V,5 %,,Malha fechada null,,6 null,765 m
+,773 rpm,26 %,0 %,,43 °C,6 %,0.45 V,,,,,12 %,0.74 V,6 %,,Malha fechada null,,6 null,765 m
+,772 rpm,26 %,0 %,,43 °C,6 %,0.45 V,,,,,12 %,0.77 V,6 %,,Malha fechada null,,6 null,765 m
+,768 rpm,25 %,0 %,,43 °C,6 %,0.45 V,,,,,12 %,0.79 V,6 %,,Malha fechada null,,6 null,765 m
+,775 rpm,25 %,0 %,,43 °C,6 %,0.45 V,,,,,12 %,,,,,,,765 m
+17 °C,756 rpm,25 %,0 %,39 °C,44 °C,2 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.18 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,762 rpm,25 %,0 %,39 °C,44 °C,6 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.43 V,7 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,758 rpm,25 %,0 %,39 °C,44 °C,7 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.80 V,7 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,760 rpm,25 %,0 %,39 °C,44 °C,7 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.81 V,5 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,762 rpm,25 %,0 %,39 °C,44 °C,5 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.80 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,759 rpm,25 %,0 %,39 °C,44 °C,3 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.69 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,756 rpm,25 %,0 %,39 °C,44 °C,6 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.16 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,759 rpm,25 %,0 %,39 °C,44 °C,8 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.78 V,8 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,760 rpm,25 %,0 %,39 °C,45 °C,8 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.81 V,8 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,760 rpm,25 %,0 %,39 °C,45 °C,5 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.82 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,762 rpm,25 %,0 %,39 °C,45 °C,5 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.78 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,762 rpm,25 %,0 %,39 °C,45 °C,3 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.62 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,759 rpm,25 %,0 %,39 °C,45 °C,7 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.15 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,756 rpm,25 %,,,,,,,,,,,,,,,,,765 m
+17 °C,758 rpm,25 %,0 %,39 °C,45 °C,5 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.80 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,748 rpm,25 %,0 %,39 °C,45 °C,4 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.75 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,755 rpm,25 %,0 %,39 °C,45 °C,6 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.15 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,764 rpm,25 %,0 %,39 °C,45 °C,8 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.78 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,762 rpm,25 %,0 %,39 °C,45 °C,8 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.82 V,8 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,763 rpm,25 %,0 %,39 °C,45 °C,5 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.82 V,5 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,764 rpm,25 %,0 %,39 °C,45 °C,5 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.79 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,756 rpm,25 %,0 %,39 °C,45 °C,3 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.57 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,756 rpm,25 %,0 %,39 °C,45 °C,7 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.15 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,767 rpm,25 %,0 %,39 °C,45 °C,8 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.81 V,8 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,758 rpm,25 %,0 %,39 °C,45 °C,8 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.82 V,5 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,760 rpm,25 %,0 %,39 °C,45 °C,5 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.81 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,759 rpm,25 %,0 %,39 °C,45 °C,3 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.62 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,760 rpm,25 %,0 %,39 °C,45 °C,5 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.09 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,766 rpm,25 %,0 %,39 °C,45 °C,6 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.80 V,6 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,762 rpm,25 %,0 %,39 °C,45 °C,6 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.86 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,765 rpm,25 %,0 %,39 °C,46 °C,4 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.84 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,753 rpm,25 %,0 %,39 °C,46 °C,3 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.08 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,758 rpm,25 %,0 %,39 °C,46 °C,6 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.20 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,761 rpm,25 %,0 %,39 °C,46 °C,6 %,0.45 V,920 mbar,14.34 V,1 %,12 %,12 %,0.81 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,764 rpm,25 %,0 %,39 °C,46 °C,6 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.81 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,761 rpm,25 %,0 %,39 °C,46 °C,3 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.39 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,758 rpm,25 %,0 %,39 °C,46 °C,5 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.09 V,6 %,340 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,767 rpm,25 %,0 %,39 °C,46 °C,7 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.78 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,761 rpm,25 %,0 %,39 °C,46 °C,7 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.81 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,756 rpm,25 %,0 %,39 °C,46 °C,4 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.77 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,756 rpm,25 %,0 %,39 °C,46 °C,3 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.08 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,762 rpm,25 %,0 %,39 °C,47 °C,5 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.58 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,764 rpm,25 %,0 %,39 °C,47 °C,6 %,0.45 V,920 mbar,13.87 V,1 %,12 %,12 %,0.76 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,759 rpm,25 %,0 %,39 °C,47 °C,4 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.77 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,759 rpm,25 %,0 %,39 °C,47 °C,3 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.08 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,761 rpm,25 %,0 %,39 °C,47 °C,6 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.11 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,759 rpm,25 %,0 %,39 °C,47 °C,7 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.76 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,764 rpm,25 %,0 %,39 °C,47 °C,7 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.77 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,757 rpm,25 %,0 %,39 °C,47 °C,4 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.72 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,753 rpm,25 %,0 %,39 °C,47 °C,5 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.09 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,765 rpm,25 %,0 %,39 °C,47 °C,6 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.73 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,768 rpm,25 %,0 %,39 °C,47 °C,6 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.75 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,760 rpm,25 %,0 %,39 °C,47 °C,4 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.72 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,758 rpm,25 %,0 %,39 °C,48 °C,5 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.09 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,752 rpm,25 %,0 %,39 °C,48 °C,6 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.73 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,748 rpm,25 %,0 %,39 °C,48 °C,6 %,0.45 V,920 mbar,13.87 V,1 %,12 %,12 %,0.75 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,751 rpm,25 %,0 %,39 °C,48 °C,4 %,0.46 V,920 mbar,13.96 V,1 %,12 %,12 %,0.74 V,4 %,330 mbar,Malha fechada null,,,765 m
+17 °C,751 rpm,25 %,0 %,39 °C,48 °C,6 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.77 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,753 rpm,25 %,0 %,39 °C,48 °C,4 %,0.46 V,920 mbar,14.05 V,1 %,12 %,12 %,0.70 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,746 rpm,25 %,0 %,39 °C,48 °C,5 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.09 V,5 %,330 mbar,Malha fechada null,19 %,,765 m
+17 °C,750 rpm,24 %,0 %,39 °C,48 °C,3 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.09 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,756 rpm,24 %,0 %,39 °C,48 °C,6 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.22 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,752 rpm,25 %,0 %,39 °C,48 °C,7 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.75 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,750 rpm,25 %,0 %,39 °C,48 °C,5 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.76 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,747 rpm,25 %,0 %,39 °C,48 °C,3 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.15 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,748 rpm,24 %,0 %,39 °C,48 °C,6 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.24 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,749 rpm,24 %,0 %,39 °C,48 °C,6 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.74 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,745 rpm,24 %,0 %,39 °C,48 °C,5 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.72 V,4 %,330 mbar,,,,765 m
+17 °C,755 rpm,25 %,0 %,39 °C,48 °C,6 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.76 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,751 rpm,24 %,0 %,39 °C,48 °C,3 %,0.46 V,920 mbar,13.96 V,1 %,12 %,12 %,0.09 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,754 rpm,24 %,0 %,39 °C,48 °C,6 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,,,,,,,765 m
+17 °C,752 rpm,24 %,0 %,39 °C,49 °C,5 %,0.46 V,920 mbar,14.05 V,1 %,12 %,12 %,0.09 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,750 rpm,24 %,0 %,39 °C,49 °C,6 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.71 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,748 rpm,24 %,0 %,39 °C,49 °C,6 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.75 V,6 %,,,,,765 m
+17 °C,745 rpm,24 %,0 %,41 °C,49 °C,6 %,0.45 V,920 mbar,14.34 V,1 %,12 %,12 %,0.72 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,753 rpm,24 %,0 %,41 °C,49 °C,6 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.76 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,750 rpm,24 %,,,,,,,,,,,,,,,,,765 m
+17 °C,749 rpm,24 %,0 %,41 °C,49 °C,5 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.10 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,754 rpm,25 %,0 %,41 °C,49 °C,6 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.70 V,6 %,330 mbar,Malha fechada null,19 %,,765 m
+17 °C,744 rpm,24 %,0 %,41 °C,50 °C,5 %,0.45 V,920 mbar,14.15 V,1 %,12 %,,,,,,,,765 m
+17 °C,750 rpm,24 %,0 %,41 °C,50 °C,5 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.56 V,5 %,330 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,747 rpm,24 %,0 %,41 °C,50 °C,5 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.73 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,748 rpm,24 %,0 %,41 °C,50 °C,4 %,0.46 V,920 mbar,14.24 V,1 %,12 %,12 %,0.72 V,3 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,746 rpm,24 %,0 %,,,,,,,,,,,,,,,,765 m
+17 °C,751 rpm,24 %,0 %,41 °C,50 °C,4 %,0.46 V,920 mbar,14.05 V,,,,,,,,,,765 m
+17 °C,748 rpm,24 %,0 %,41 °C,50 °C,7 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.46 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,753 rpm,25 %,0 %,41 °C,51 °C,8 %,0.45 V,920 mbar,14.15 V,,,,,,,,,,765 m
+17 °C,744 rpm,25 %,0 %,41 °C,51 °C,7 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.66 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,752 rpm,25 %,0 %,41 °C,51 °C,8 %,0.45 V,920 mbar,14.34 V,1 %,12 %,12 %,0.74 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,754 rpm,25 %,0 %,41 °C,51 °C,6 %,0.46 V,920 mbar,13.96 V,1 %,12 %,12 %,0.75 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,749 rpm,25 %,0 %,41 °C,51 °C,5 %,0.46 V,920 mbar,14.05 V,1 %,12 %,12 %,0.10 V,6 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,752 rpm,24 %,0 %,41 °C,51 °C,7 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.17 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,752 rpm,25 %,0 %,41 °C,51 °C,8 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.75 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,751 rpm,25 %,0 %,41 °C,51 °C,8 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.76 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,744 rpm,25 %,0 %,41 °C,51 °C,5 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.55 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,735 rpm,25 %,0 %,41 °C,51 °C,6 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.13 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,746 rpm,25 %,0 %,41 °C,51 °C,8 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.71 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,742 rpm,25 %,0 %,41 °C,51 °C,8 %,0.46 V,920 mbar,14.15 V,1 %,12 %,,,,,,,,765 m
+17 °C,746 rpm,25 %,0 %,41 °C,51 °C,7 %,0.45 V,920 mbar,14.05 V,,,,,,,,,,765 m
+17 °C,740 rpm,24 %,0 %,41 °C,51 °C,6 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.12 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,740 rpm,24 %,0 %,41 °C,51 °C,8 %,0.45 V,920 mbar,14.24 V,1 %,12 %,12 %,0.73 V,8 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,742 rpm,24 %,0 %,41 °C,52 °C,8 %,0.46 V,920 mbar,13.96 V,1 %,12 %,12 %,0.74 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,739 rpm,24 %,0 %,41 °C,52 °C,5 %,0.46 V,920 mbar,14.05 V,1 %,12 %,12 %,0.66 V,5 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,742 rpm,25 %,0 %,,,,,,,,,,,,,,,,765 m
+17 °C,743 rpm,25 %,0 %,41 °C,52 °C,5 %,0.46 V,920 mbar,14.24 V,1 %,12 %,12 %,0.59 V,4 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,741 rpm,25 %,0 %,41 °C,52 °C,6 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.09 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,746 rpm,25 %,0 %,41 °C,52 °C,7 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.73 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,740 rpm,25 %,0 %,41 °C,52 °C,7 %,0.46 V,920 mbar,13.96 V,1 %,12 %,12 %,0.74 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,745 rpm,24 %,0 %,41 °C,52 °C,5 %,0.46 V,920 mbar,14.24 V,1 %,12 %,12 %,0.70 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,738 rpm,24 %,0 %,41 °C,52 °C,6 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.09 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,737 rpm,24 %,0 %,41 °C,52 °C,7 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.69 V,7 %,330 mbar,Malha fechada null,19 %,6 null,765 m
+17 °C,733 rpm,24 %,0 %,41 °C,52 °C,7 %,0.46 V,920 mbar,14.05 V,1 %,12 %,12 %,0.75 V,7 %,330 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,742 rpm,24 %,0 %,41 °C,53 °C,5 %,0.46 V,920 mbar,14.05 V,,,,,,,,,,765 m
+17 °C,744 rpm,24 %,0 %,41 °C,53 °C,8 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.74 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,742 rpm,24 %,0 %,41 °C,53 °C,8 %,0.46 V,920 mbar,14.24 V,1 %,12 %,12 %,0.74 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,740 rpm,24 %,0 %,41 °C,53 °C,5 %,0.46 V,920 mbar,14.24 V,1 %,12 %,12 %,0.11 V,6 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,731 rpm,24 %,0 %,41 °C,53 °C,7 %,0.45 V,920 mbar,14.34 V,1 %,12 %,12 %,0.13 V,7 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,741 rpm,24 %,0 %,41 °C,53 °C,8 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.72 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,,,,,,,,,,,,,,,,,,,765 m
+17 °C,745 rpm,24 %,0 %,41 °C,53 °C,8 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.70 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,738 rpm,24 %,0 %,41 °C,53 °C,8 %,0.46 V,920 mbar,14.05 V,1 %,12 %,12 %,0.74 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,742 rpm,24 %,0 %,41 °C,53 °C,5 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.70 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,736 rpm,24 %,0 %,41 °C,53 °C,7 %,0.46 V,920 mbar,13.96 V,1 %,12 %,12 %,0.11 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,742 rpm,24 %,0 %,41 °C,54 °C,8 %,0.45 V,920 mbar,14.05 V,1 %,12 %,12 %,0.72 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,741 rpm,24 %,0 %,41 °C,54 °C,8 %,0.46 V,920 mbar,14.24 V,1 %,12 %,12 %,0.75 V,6 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,,,,,,,,,,,,,,,,,,,765 m
+17 °C,736 rpm,24 %,0 %,41 °C,54 °C,8 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.75 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,739 rpm,24 %,0 %,41 °C,54 °C,6 %,0.47 V,920 mbar,14.15 V,1 %,12 %,12 %,0.73 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,741 rpm,24 %,0 %,41 °C,54 °C,5 %,0.47 V,920 mbar,14.15 V,1 %,12 %,12 %,0.09 V,7 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,739 rpm,24 %,0 %,41 °C,54 °C,8 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.70 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,741 rpm,24 %,0 %,41 °C,54 °C,8 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.76 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,741 rpm,24 %,0 %,41 °C,54 °C,5 %,0.47 V,920 mbar,14.05 V,1 %,12 %,12 %,0.67 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,739 rpm,24 %,0 %,41 °C,54 °C,7 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.12 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,737 rpm,24 %,0 %,41 °C,54 °C,8 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.70 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,740 rpm,24 %,0 %,41 °C,54 °C,8 %,0.47 V,920 mbar,13.96 V,1 %,12 %,12 %,0.77 V,6 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,738 rpm,24 %,0 %,41 °C,54 °C,5 %,0.47 V,920 mbar,14.24 V,1 %,12 %,12 %,0.66 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,740 rpm,24 %,0 %,41 °C,54 °C,7 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.11 V,7 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,743 rpm,24 %,0 %,41 °C,54 °C,8 %,0.45 V,920 mbar,14.34 V,1 %,12 %,12 %,0.74 V,8 %,330 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,740 rpm,24 %,0 %,41 °C,54 °C,8 %,0.47 V,920 mbar,14.05 V,1 %,12 %,12 %,0.76 V,5 %,330 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,743 rpm,24 %,0 %,41 °C,54 °C,,,,,,,,,,,,,,765 m
+17 °C,743 rpm,24 %,0 %,41 °C,54 °C,8 %,0.47 V,920 mbar,14.05 V,1 %,12 %,12 %,0.76 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,738 rpm,24 %,0 %,41 °C,54 °C,5 %,0.47 V,920 mbar,14.05 V,1 %,12 %,12 %,0.74 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,734 rpm,24 %,0 %,41 °C,,,,,,,,,,,,,,,765 m
+17 °C,733 rpm,24 %,0 %,41 °C,54 °C,8 %,0.47 V,920 mbar,14.24 V,1 %,12 %,12 %,0.75 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,730 rpm,24 %,0 %,41 °C,54 °C,5 %,0.47 V,920 mbar,13.96 V,1 %,12 %,12 %,0.30 V,6 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,727 rpm,24 %,0 %,41 °C,54 °C,7 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.29 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,727 rpm,24 %,0 %,41 °C,55 °C,8 %,0.46 V,920 mbar,13.96 V,1 %,12 %,12 %,0.75 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,730 rpm,24 %,0 %,41 °C,55 °C,8 %,0.47 V,920 mbar,14.15 V,1 %,12 %,12 %,0.74 V,5 %,,,,,765 m
+17 °C,733 rpm,24 %,0 %,41 °C,55 °C,8 %,0.45 V,920 mbar,14.15 V,1 %,12 %,12 %,0.72 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,732 rpm,24 %,0 %,41 °C,55 °C,8 %,0.47 V,920 mbar,14.24 V,1 %,12 %,12 %,0.75 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,733 rpm,24 %,0 %,41 °C,55 °C,5 %,0.47 V,920 mbar,14.15 V,1 %,12 %,12 %,0.70 V,5 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,729 rpm,24 %,0 %,41 °C,55 °C,6 %,0.47 V,920 mbar,14.24 V,1 %,12 %,12 %,0.11 V,6 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,731 rpm,24 %,0 %,41 °C,55 °C,7 %,0.45 V,920 mbar,13.96 V,1 %,12 %,12 %,0.29 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,730 rpm,24 %,0 %,41 °C,55 °C,8 %,0.46 V,920 mbar,14.15 V,1 %,12 %,12 %,0.75 V,8 %,320 mbar,Malha fechada null,18 %,6 null,765 m
+17 °C,731 rpm,24 %,0 %,41 °C,55 °C,8 %,0.47 V,920 mbar,14.05 V,1 %,12 %,12 %,0.76 V,5 %,320 mbar,Malha fechada null,18 %,,765 m
+,727 rpm,24 %,0 %,,55 °C,7 %,,,,,,,0.10 V,7 %,,,,,765 m
+,729 rpm,24 %,0 %,,55 °C,7 %,,,,,,,0.19 V,8 %,,,,,765 m
+,733 rpm,24 %,0 %,,55 °C,8 %,,,,,,,0.69 V,8 %,,,,,765 m
+,729 rpm,24 %,0 %,,55 °C,8 %,,,,,,,0.72 V,8 %,,,,,765 m
+,729 rpm,24 %,0 %,,55 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.74 V,8 %,,,,,765 m
+,731 rpm,24 %,0 %,,55 °C,8 %,,,,,,,0.73 V,5 %,,,,,765 m
+,734 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.74 V,5 %,,,,,765 m
+,737 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.73 V,5 %,,,,,765 m
+,729 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.66 V,5 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.14 V,6 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,6 %,,,,,,,0.09 V,7 %,,,,,765 m
+,727 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.10 V,7 %,,,,,765 m
+,728 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.19 V,8 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.69 V,8 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,733 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,728 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.72 V,5 %,,,,,765 m
+,728 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.73 V,5 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.73 V,5 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.63 V,5 %,,,,,765 m
+,729 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.24 V,6 %,,,,,765 m
+,723 rpm,24 %,0 %,,56 °C,6 %,,,,,,,0.09 V,6 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.09 V,7 %,,,,,765 m
+,736 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.11 V,7 %,,,,,765 m
+,733 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.20 V,8 %,,,,,765 m
+,734 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.64 V,8 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.69 V,8 %,,,,,765 m
+,735 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,734 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,726 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.74 V,8 %,,,,,765 m
+,738 rpm,24 %,0 %,,56 °C,6 %,,,,,,,0.73 V,6 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.72 V,5 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.70 V,5 %,,,,,765 m
+,733 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.30 V,7 %,,,,,765 m
+,728 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.09 V,7 %,,,,,765 m
+,729 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.10 V,8 %,,,,,765 m
+,733 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.15 V,8 %,,,,,765 m
+,731 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.69 V,8 %,,,,,765 m
+,723 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.72 V,8 %,,,,,765 m
+,729 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,729 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.72 V,8 %,,,,,765 m
+,731 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.74 V,8 %,,,,,765 m
+,736 rpm,24 %,0 %,,56 °C,6 %,,,,,,,0.74 V,6 %,,,,,765 m
+,726 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.72 V,5 %,,,,,765 m
+,733 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.60 V,5 %,,,,,765 m
+,725 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.10 V,7 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.10 V,8 %,,,,,765 m
+,734 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.20 V,8 %,,,,,765 m
+,731 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.67 V,8 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.72 V,8 %,,,,,765 m
+,735 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,735 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,732 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.74 V,5 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,5 %,,,,,,,0.73 V,5 %,,,,,765 m
+,730 rpm,24 %,0 %,,57 °C,5 %,,,,,,,0.65 V,5 %,,,,,765 m
+,724 rpm,24 %,0 %,,57 °C,6 %,,,,,,,0.17 V,7 %,,,,,765 m
+,724 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.09 V,7 %,,,,,765 m
+,730 rpm,24 %,0 %,,56 °C,7 %,,,,,,,0.09 V,8 %,,,,,765 m
+,736 rpm,24 %,0 %,,56 °C,8 %,,,,,,,0.30 V,8 %,,,,,765 m
+,734 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.69 V,8 %,,,,,765 m
+,730 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.70 V,8 %,,,,,765 m
+,729 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,726 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,730 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.74 V,6 %,,,,,765 m
+,725 rpm,24 %,0 %,,57 °C,5 %,,,,,,,0.74 V,5 %,,,,,765 m
+,735 rpm,24 %,0 %,,57 °C,5 %,,,,,,,0.71 V,5 %,,,,,765 m
+,727 rpm,24 %,0 %,,57 °C,5 %,,,,,,,0.62 V,5 %,,,,,765 m
+,729 rpm,24 %,0 %,,57 °C,7 %,,,,,,,0.10 V,7 %,,,,,765 m
+,728 rpm,24 %,0 %,,57 °C,7 %,,,,,,,0.09 V,7 %,,,,,765 m
+,733 rpm,24 %,0 %,,57 °C,7 %,,,,,,,0.14 V,8 %,,,,,765 m
+,732 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.26 V,8 %,,,,,765 m
+,732 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.72 V,8 %,,,,,765 m
+,732 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
+,731 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.74 V,8 %,,,,,765 m
+,724 rpm,24 %,0 %,,57 °C,8 %,,,,,,,0.73 V,8 %,,,,,765 m
