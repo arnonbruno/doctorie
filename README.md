@@ -41,7 +41,7 @@ For the script to run correctly, your project folder should be organized as foll
 ```
 /your_project_folder/
 |
-|-- automotive_fault_detector.py  <-- The Python script
+|-- auto_fault.py <-- The Python script
 |
 |-- /datasets/
 |   |-- fault_example.csv
