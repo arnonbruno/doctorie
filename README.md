@@ -53,7 +53,7 @@ For the script to run correctly, your project folder should be organized as foll
 ### Running the Full Pipeline (Training & Prediction)
 To run the entire process—from data loading and cleaning to model training, evaluation, and demonstration—simply execute the script from your terminal:
 ```bash
-python automotive_fault_detector.py
+python auto_fault_detector.py
 ```
 
 This single command will:
@@ -91,7 +91,7 @@ result = interface.predict_single_scan(faulty_scan_data)
 
 # Print the result
 print(result)
-# Expected Output: {'fault_detected': True, ..., 'status': '⚠️ Fault detected', 'fault_details': [...]}
+# Expected Output: {'fault_detected': True, ..., 'status': 'Fault detected', 'fault_details': [...]}
 ```
 
 ##4 . Challenges and Future Improvements
