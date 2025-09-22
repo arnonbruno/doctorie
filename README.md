@@ -39,7 +39,7 @@ pip install pandas scikit-learn joblib
 ### Directory Structure
 For the script to run correctly, your project folder should be organized as follows:
 ```
-/your_project_folder/
+/project_folder/
 |
 |-- auto_fault.py <-- The Python script
 |
